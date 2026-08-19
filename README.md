@@ -21,7 +21,7 @@
 - Estudiante de décimo semestre de **Ingeniería en Ciencias y Sistemas**, Universidad de San Carlos de Guatemala (USAC).
 - Tutor académico del **Laboratorio de Redes de Computadoras 1**.
 - Desarrollador **Fullstack**, con experiencia trabajando en distintas capas: frontend, backend, bases de datos e infraestructura.
-- Interesado en buenas prácticas de DevOps, contenedores y arquitecturas en la nube.
+- Interesado en buenas prácticas de DevOps y arquitecturas en la nube.
 
 ---
 
