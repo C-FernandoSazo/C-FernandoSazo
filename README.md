@@ -1,6 +1,6 @@
 <div align="center">
 
-# Cesar Sazo
+# Cesar Fernando Sazo Quisquinay
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=2496ED&center=true&vCenter=true&width=650&lines=Estudiante+de+Ing.+en+Ciencias+y+Sistemas+-+USAC;Tutor+Academico+de+Redes+de+Computadoras+1;Fullstack+Developer" alt="Typing SVG" />
 
