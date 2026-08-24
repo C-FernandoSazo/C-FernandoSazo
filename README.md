@@ -16,7 +16,7 @@
 
 ---
 
-## 🎓 Sobre mí
+## Sobre mí
 
 - Estudiante de décimo semestre de **Ingeniería en Ciencias y Sistemas**, Universidad de San Carlos de Guatemala (USAC).
 - Tutor académico del **Laboratorio de Redes de Computadoras 1**.
@@ -25,7 +25,7 @@
 
 ---
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 
 **Lenguajes**
 
@@ -88,7 +88,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=c-fernandosazo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true" />
@@ -101,7 +101,7 @@
 
 ---
 
-## 🚀 Proyectos Destacados
+## Proyectos Destacados
 
 <p align="center">
   <a href="https://github.com/C-FernandoSazo/Weather-Streaming-Platform">
