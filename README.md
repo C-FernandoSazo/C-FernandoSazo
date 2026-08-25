@@ -88,19 +88,6 @@
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=c-fernandosazo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=c-fernandosazo&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/2496ED/c-fernandosazo" alt="Calendario de contribuciones de Fernando Sazo" />
-</p>
-
----
-
 ## Proyectos Destacados
 
 <p align="center">
@@ -110,4 +97,17 @@
   <a href="https://github.com/JoseLorenzana272/Pharmusac">
     <img height="165" src="https://github-stats-extended.vercel.app/api/pin/?username=JoseLorenzana272&repo=Pharmusac&theme=tokyonight&hide_border=true&show_owner=true" />
   </a>
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=c-fernandosazo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=c-fernandosazo&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/2496ED/c-fernandosazo" alt="Calendario de contribuciones de Fernando Sazo" />
 </p>
